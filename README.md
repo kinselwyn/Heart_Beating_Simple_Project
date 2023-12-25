@@ -5,7 +5,7 @@ where it generates a continuous square wave output. This pulsating signal serves
 
 Materials Needed:
 
-120K Resistor x2__
+120K Resistor x2\
 10K Resistor x2
 100u Capacitor x1
 10u Capacitor x1
