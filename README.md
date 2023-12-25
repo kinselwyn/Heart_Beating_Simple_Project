@@ -6,12 +6,12 @@ where it generates a continuous square wave output. This pulsating signal serves
 Materials Needed:
 
 120K Resistor x2\
-10K Resistor x2
-100u Capacitor x1
-10u Capacitor x1
-1N4007 Diode x1
-BD136 Transistor x1
-NE555 Timer x1
-Red LEDs x14 (depends on you)
-5v Power Source
+10K Resistor x2\
+100u Capacitor x1\
+10u Capacitor x1\
+1N4007 Diode x1\
+BD136 Transistor x1\
+NE555 Timer x1\
+Red LEDs x14 (depends on you)\
+5v Power Source\
 
