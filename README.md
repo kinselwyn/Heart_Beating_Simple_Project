@@ -21,3 +21,4 @@ Schematic Diagram:
 
 Surprisingly, you can change up the heartbeat LED effect by tweaking some component values in the circuit. 
 By playing around with the resistors and capacitors in the 555 timer setup, you get the power to control how fast the LEDs pulse. 
+https://github.com/kinselwyn/Heart_Beating_Simple_Project/assets/97436111/a326f613-70c9-4aed-bd47-0b40521082d1
