@@ -15,3 +15,5 @@ NE555 Timer x1\
 Red LEDs x14 (depends on you)\
 5v Power Source\
 
+![Heart Beating](https://github.com/kinselwyn/Heart_Beating_Simple_Project/assets/97436111/5b6066a4-585f-4722-99f9-4b8850a3a8aa)
+
