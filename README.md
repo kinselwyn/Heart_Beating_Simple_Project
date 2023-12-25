@@ -19,3 +19,5 @@ Red LEDs x14 (depends on you)\
 Schematic Diagram:
 ![Heart Beating](https://github.com/kinselwyn/Heart_Beating_Simple_Project/assets/97436111/5b6066a4-585f-4722-99f9-4b8850a3a8aa)
 
+Surprisingly, you can change up the heartbeat LED effect by tweaking some component values in the circuit. 
+By playing around with the resistors and capacitors in the 555 timer setup, you get the power to control how fast the LEDs pulse. 
