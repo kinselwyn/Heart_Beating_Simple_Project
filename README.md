@@ -13,7 +13,7 @@ Materials Needed:
 BD136 Transistor x1\
 NE555 Timer x1\
 Red LEDs x14 (depends on you)\
-5v Power Source\
+5v Power Source
 
 
 Schematic Diagram:
